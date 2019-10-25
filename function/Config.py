@@ -1,5 +1,5 @@
 """ 
-@author: YaboDan
+@author: 
 @file: Config.py
 """
 

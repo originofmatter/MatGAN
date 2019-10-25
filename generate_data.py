@@ -1,5 +1,5 @@
 """
-@author: YaboDan
+@author: 
 @file: generate_data.py
 """
 import os

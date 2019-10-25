@@ -1,5 +1,5 @@
 """
-@author: Joker
+@author: 
 @file: Produce_New_Materials.py
 """
 
