@@ -1,0 +1,7 @@
+numpy >= 1.14.3
+scipy
+spglib
+ase
+pymatgen
+matminer
+tensorflow==1.14.0
