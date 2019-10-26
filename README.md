@@ -1,5 +1,4 @@
 # MatGAN
-Generative deep learning model for inorganic materials
 
 
 ## Video demo 
