@@ -20,6 +20,6 @@ To generate more materials, just continue to re-run this same command, the resul
 
 ## Generated hypothetical materials by GAN-ICSD
 
-- [Generated materials by GAN-ICSD](.\generated_data\ICSD\generated_ICSD_2m.csv)
+- [Generated materials by GAN-ICSD](https://github.com/originofmatter/MatGAN/blob/master/generated_data/ICSD_GAN_2M.csv)
 
 
