@@ -5,7 +5,7 @@ Generative deep learning model for inorganic materials
 ## Video demo 
 - [MatGAN in action demo video](https://youtu.be/psneoau1m-8)
 
-## Installation of run environment
+## Installation of running environment
 $pip install -r requirement.txt
 
 ## How to run:
