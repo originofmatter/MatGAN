@@ -21,4 +21,6 @@ To generate more materials, just continue to re-run this same command, the resul
 
 - [Generated materials by GAN-ICSD](https://github.com/originofmatter/MatGAN/blob/master/generated_data/ICSD_GAN_2M.csv)
 
+## Citing
 
+> Dan, Y.; Zhao, Y.; Li, X.; Li, S.; Hu, M.; Hu, J. Generative Adversarial Networks (GAN) Based Efficient Sampling of Chemical Composition Space for Inverse Design of Inorganic Materials. npj Computational Materials 2020, 6 (1), 1–7. https://doi.org/10.1038/s41524-020-00352-0.
